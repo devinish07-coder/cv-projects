@@ -15,11 +15,32 @@ This project detects moving objects in real time using a webcam. It uses frame d
 
 ## How to Run
 1. Install Python
-2. Install dependencies
-3. Run:
+2. Install the required packages:
+     pip install -r requirements.txt
+4. Run:
    python cv1.py
 
 ## Demo
+Watch the project demonstration in **demo.mp4**.
 
 ## Screenshots
-(Add screenshots here)
+### Initial Frame
+![Output 1](output-1.png)
+
+### Motion Detected
+![Output 2](output-2.png)
+
+### Code page
+![code](code.png)
+
+## Author
+
+**Devipriya B**
+
+- Bachelor of Engineering (Computer Science and Engineering).
+- Passionate about Python, Computer Vision, Full-Stack Development and AI Engineer.
+
+- GitHub: [github-Devipriya B](https://github.com/devinish07-coder)
+- LinkedIn: [LinkedIn-Devipriya B](https://www.linkedin.com/in/devipriyab07)
+
+## ⭐ If you found this project useful, consider giving it a star!
