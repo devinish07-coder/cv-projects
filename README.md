@@ -21,7 +21,7 @@ This project detects moving objects in real time using a webcam. It uses frame d
    python cv1.py
 
 ## Demo
-Watch the project demonstration in **demo.mp4**.
+![Project demonstration](demo.mp4)
 
 ## Screenshots
 ### Initial Frame
